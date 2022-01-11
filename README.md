@@ -1,7 +1,7 @@
 # A Note on Numerical Fluxes Conserving Harten's Entropies for the Compressible Euler Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://doi.org/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5837898.svg)](https://doi.org/10.5281/zenodo.5837898)
 
 This repository contains information and code to reproduce the results presented in the article
 ```
@@ -27,7 +27,7 @@ use the implementations provided here, please **also** cite this repository as
   author={Ranocha, Hendrik},
   year={2022},
   howpublished={\url{https://github.com/ranocha/paper-2022-Euler_Harten_EC}},
-  doi={TODO}
+  doi={10.5281/zenodo.5837898}
 }
 ```
 
