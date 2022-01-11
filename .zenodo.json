@@ -1,0 +1,14 @@
+{
+    "license": "MIT",
+    "title": "A Note on Numerical Fluxes Conserving Harten's Entropies for the Compressible Euler Equations",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Applied Mathematics, University of Münster, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}
+ 
