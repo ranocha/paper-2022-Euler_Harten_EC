@@ -56,6 +56,9 @@ experiments, including postprocessing.
 
 The numerical experiments were carried out using Julia v1.7.1.
 
+Moreover, the `code` directory contains a Mathematica notebook and its PDF
+version verifying some calculations presented in the paper.
+
 
 ## Authors
 
