@@ -11,7 +11,7 @@ This repository contains information and code to reproduce the results presented
   author={Ranocha, Hendrik},
   year={2022},
   month={01},
-  eprint={TODO},
+  eprint={2201.03946},
   eprinttype={arXiv},
   eprintclass={math.NA}
 }
