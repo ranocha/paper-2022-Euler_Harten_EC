@@ -1,6 +1,6 @@
 {
     "license": "MIT",
-    "title": "A Note on Numerical Fluxes Conserving Harten's Entropies for the Compressible Euler Equations",
+    "title": "A Note on Numerical Fluxes Conserving a Member of Harten's One-Parameter Family of Entropies for the Compressible Euler Equations",
     "upload_type": "software",
     "creators": [
         {
