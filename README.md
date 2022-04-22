@@ -1,16 +1,18 @@
-# A Note on Numerical Fluxes Conserving Harten's Entropies for the Compressible Euler Equations
+# A Note on Numerical Fluxes Conserving a Member of Harten's One-Parameter Family of Entropies for the Compressible Euler Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5837898.svg)](https://doi.org/10.5281/zenodo.5837898)
 
 This repository contains information and code to reproduce the results presented in the article
 ```
-@online{ranocha2022note,
-  title={A Note on Numerical Fluxes Conserving {H}arten's Entropies for the
-         Compressible {E}uler Equations},
+@article{ranocha2022note,
+  title={A Note on Numerical Fluxes Conserving a Member of {H}arten's
+         One-Parameter Family of Entropies for the Compressible {E}uler Equations},
   author={Ranocha, Hendrik},
+  journal={Journal of Computational Physics},
   year={2022},
-  month={01},
+  month={04},
+  doi={10.1016/j.jcp.2022.111236},
   eprint={2201.03946},
   eprinttype={arXiv},
   eprintclass={math.NA}
@@ -22,8 +24,8 @@ use the implementations provided here, please **also** cite this repository as
 ```
 @misc{ranocha2022noteRepro,
   title={Reproducibility repository for
-         "A Note on Numerical Fluxes Conserving {H}arten's Entropies for the
-         Compressible {E}uler Equations"},
+         "A Note on Numerical Fluxes Conserving a Member of {H}arten's
+         One-Parameter Family of Entropies for the Compressible {E}uler Equations"},
   author={Ranocha, Hendrik},
   year={2022},
   howpublished={\url{https://github.com/ranocha/paper-2022-Euler_Harten_EC}},
@@ -62,7 +64,7 @@ version verifying some calculations presented in the paper.
 
 ## Authors
 
-* [Hendrik Ranocha](https://ranocha.de) (University of Münster, Germany)
+* [Hendrik Ranocha](https://ranocha.de) (University of Hamburg, Germany)
 
 
 ## Disclaimer
